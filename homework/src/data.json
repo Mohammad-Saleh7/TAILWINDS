@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "icon": "./imgCard/performance-1.png",
+    "title": "Performance Optimization",
+    "description": "Enhance React apps by minimizing re-renders, lazy loading components, and utilizing memoization for speed."
+  },
+  {
+    "id": 2,
+    "icon": "./imgCard/request-service-2.png",
+    "title": "Redux State Management",
+    "description": "Efficiently manage complex application state using Redux Toolkit with simplified syntax and built-in best practices."
+  },
+  {
+    "id": 3,
+    "icon": "./imgCard/design-3.png",
+    "title": "Tailwind Responsive Design",
+    "description": "Create responsive web interfaces easily using Tailwind CSS utility classes for a consistent experience across devices."
+  },
+  {
+    "id": 4,
+    "icon": "./imgCard/deployment-4.png",
+    "title": "Vite Production Deployment",
+    "description": "Streamline the deployment process of Vite-based projects with optimized build configurations and deployment strategies."
+  },
+  {
+    "id": 5,
+    "icon": "./imgCard/combine-5.png",
+    "title": "React Library Integration",
+    "description": "Seamlessly add functionality to React applications by integrating third-party libraries for smooth interactions."
+  },
+  {
+    "id": 6,
+    "icon": "./imgCard/checked-6.png",
+    "title": "React App Authentication",
+    "description": "Secure React applications with robust authentication mechanisms using Firebase, Auth0, or JWT-based solutions."
+  }
+]

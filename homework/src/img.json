@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "src": "/js.png"
+  },
+  {
+    "id": 2,
+    "src": "ts.png"
+  },
+  {
+    "id": 3,
+    "src": "react.png"
+  },
+  {
+    "id": 4,
+    "src": "redux.png"
+  },
+  {
+    "id": 5,
+    "src": "tailwind.png"
+  },
+  {
+    "id": 6,
+    "src": "nextjs.png"
+  }
+]
