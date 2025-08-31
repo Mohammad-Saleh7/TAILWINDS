@@ -22,9 +22,6 @@ export default function Cards({ src, title, Description }) {
             <CardDescription>{Description}</CardDescription>
           </div>
         </CardHeader>
-        {/* <CardContent>
-          <p className="flex items-center justify-between ">{para}</p>
-        </CardContent> */}
       </Card>
     </div>
   );

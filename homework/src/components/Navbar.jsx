@@ -19,7 +19,6 @@ import { Menu } from "lucide-react";
 export function NavigationMenuDemo() {
   return (
     <>
-      {/* لپتاپ/دسکتاپ — بدون تغییر */}
       <div className="container mx-auto mt-4 hidden lg:flex items-center justify-between px-32">
         <div>
           <p>
@@ -65,8 +64,6 @@ export function NavigationMenuDemo() {
           <ButtonDemo className="cursor-pointer">Sign Up</ButtonDemo>
         </div>
       </div>
-
-      {/* موبایل/تبلت — همبرگری */}
       <div className="container mx-auto mt-4 flex lg:hidden items-center justify-between px-4">
         <div>
           <p>
